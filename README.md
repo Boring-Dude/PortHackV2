@@ -1,26 +1,14 @@
-# 🧊 Neuro License (v1.0)
+# 🔍 Port Scanner (or Port Hacking)
+Welcome to the official repository of Port Scanner — a no-stress, liability-free software designed for creators who just want to go on a rogue of port scanning
+***
+###### I Know you are in heaven
+# What Is This Software?
+This Software is used to Port Scan IPs therefore having Access into them
 
-Welcome to the official repository of the **Neuro License** — a no-stress, permission-friendly, liability-free software license designed for creators who just want to share their work and keep things simple.
-
----
-
-## 🔍 What Is This License?
-
-The **Neuro License (v1.0)** is a permissive software license that allows:
-- ✅ Free use, commercial or non-commercial
-- ✅ Modification and distribution
-- ✅ No requirement to give credit (though it’s appreciated)
-- ✅ No liability on the author if things go wrong
-- ✅ No tolerance for harmful, unethical, or discriminatory use
-
----
 
 ## 🛠️ How to Use
 
-To add this license to your own project:
-
-1. 📄 Copy the `LICENSE.md` file from this repository.
-2. 📌 Place it in the root of your project folder.
-3. ✏️ Update the following line at the bottom:
-   ```md
-   (c) [Yassir (AKA Boring-Dude], 2025
+* Go to the [Release Page](https://github.com/Boring-Dude/PortHackV2/releases/new)
+* Choose What the package supports (e.g. for Windows choose a .exe)
+* Download it.
+* Use it.
