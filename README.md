@@ -8,7 +8,7 @@ This Software is used to Port Scan IPs therefore having Access into them
 
 ## 🛠️ How to Use
 
-* Go to the [Release Page](https://github.com/Boring-Dude/PortHackV2/releases/new)
+* Go to the [Release Page](https://github.com/Boring-Dude/PortHackV2/releases/)
 * Choose What the package supports (e.g. for Windows choose a .exe)
 * Download it.
 * Use it.
